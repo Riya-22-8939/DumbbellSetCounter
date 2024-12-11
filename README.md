@@ -6,6 +6,7 @@ Requirements -
 
 
 Libraries included- 
-1.cv2 [ This helps in using interface for video processing functions which gives access to your camera.]
+1.cv2 
+[ This helps in using interface for video processing functions which gives access to your camera.]
 2.numpy as np
 3.mediapipe as mp
